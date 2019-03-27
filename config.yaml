@@ -1,0 +1,4 @@
+baseURL: "http://10.28.32.114/"
+languageCode: "zh-cn"
+title: "NWPC Operation System"
+theme: "ananke"
