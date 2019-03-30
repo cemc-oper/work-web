@@ -1,0 +1,7 @@
+baseURL: "https://nwpc-oper.github.io/work-web/"
+canonifyURLs: true
+languageCode: "zh-cn"
+title: "NWPC业务系统"
+theme: "hugo-theme-learn"
+params:
+  ordersectionsby: title
