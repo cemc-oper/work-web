@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2. HPC实时监控 on NWPC业务系统</title>
-    <link>http://10.28.32.114/1-website/2-grafana/</link>
+    <link>https://nwpc-oper.github.io/work-web/1-website/2-grafana/</link>
     <description>Recent content in 2. HPC实时监控 on NWPC业务系统</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 29 Mar 2019 22:52:36 +0800</lastBuildDate>
     
-	<atom:link href="http://10.28.32.114/1-website/2-grafana/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nwpc-oper.github.io/work-web/1-website/2-grafana/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2. 命令行工具 on NWPC业务系统</title>
-    <link>http://10.28.32.114/2-cli/</link>
+    <link>https://nwpc-oper.github.io/work-web/2-cli/</link>
     <description>Recent content in 2. 命令行工具 on NWPC业务系统</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 29 Mar 2019 22:57:19 +0800</lastBuildDate>
     
-	<atom:link href="http://10.28.32.114/2-cli/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nwpc-oper.github.io/work-web/2-cli/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2. slsubmit6</title>
-      <link>http://10.28.32.114/2-cli/2-submit/</link>
+      <link>https://nwpc-oper.github.io/work-web/2-cli/2-submit/</link>
       <pubDate>Sat, 30 Mar 2019 19:10:46 +0800</pubDate>
       
-      <guid>http://10.28.32.114/2-cli/2-submit/</guid>
+      <guid>https://nwpc-oper.github.io/work-web/2-cli/2-submit/</guid>
       <description> slurm作业提交脚本 ecFlow中使用slsubmit6提交作业，并使用slcancel4删除作业。
 slsubmit6 slsubmit6 %ECF_JOB% %ECF_NAME% %ECF_TRIES% %ECF_TRYNO% %ECF_HOST% %ECF_PORT%  日志 出错日志 记录slurm提交失败的作业。设置变量ERROR_LOG，开启出错日志。
 export ERROR_LOG=true  提交日志 记录提交记录和 sbatch 标准错误输出信息。
@@ -26,10 +26,10 @@ export DEBUG=true  slcancel4 slcancel4 %ECF_RID% %ECF_NAME% %ECF_HOST% %ECF_PORT
     
     <item>
       <title>1. ecFlow脚本</title>
-      <link>http://10.28.32.114/2-cli/1-ecflow/</link>
+      <link>https://nwpc-oper.github.io/work-web/2-cli/1-ecflow/</link>
       <pubDate>Fri, 29 Mar 2019 22:58:10 +0800</pubDate>
       
-      <guid>http://10.28.32.114/2-cli/1-ecflow/</guid>
+      <guid>https://nwpc-oper.github.io/work-web/2-cli/1-ecflow/</guid>
       <description> 使用预定义的命令启动和停止业务账户的ecFlow服务。
 启动ecFlow服务 使用业务账户登录指定节点（login01或login02）使用如下命令启动该节点上ECFLOW服务，以nwp户头为例：
 /g1/u/nwp/bin/start_ecflow  停止ecFlow服务 使用业务账户登录指定节点（login01或login02）使用如下命令停止该节点上的ECFLOW服务，以nwp户头为例：
